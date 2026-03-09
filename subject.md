@@ -1,6 +1,10 @@
 # Fortran 輪講
+### 目次
 - [積分](#積分_2022)
 - [テンソル解析](#テンソル解析)
+### 資料
+- [Notion](https://www.notion.so/Fortran-31ead3c007d180e384e5ecc3ac002fac)
+- [Fortran 入門](https://www.nag-j.co.jp/fortran/index.html)
 
 ## 積分_2022
 1. √a を「計算して」求めるプログラムの作成
